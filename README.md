@@ -41,9 +41,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='finalprojectgif1.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough1' />
-<img src='finalprojectgif2.gif' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
-<img src='finalprojectgif3.gif' title='Video Walkthrough3' width='' alt='Video Walkthrough3' />
+<img src='finalprojectgif.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough1' />
+
 
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
